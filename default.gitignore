@@ -1,0 +1,11 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/nbproject/private/
+/subprojects/JSpikeStack/build/
+/build/
+/subprojects/JSpikeStack/dist/
+/dist/
